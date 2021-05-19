@@ -7,7 +7,7 @@ developer.
 
 - 🇦🇷 I live in Argentina
 - 🎬 I am also a video editor
-  - Using tools like `Adobe Premiere Pro` and `Adobe After Effects`
+  - 💻 Using tools like `Adobe Premiere Pro` and `Adobe After Effects`
   - 🏃 Yes, I can do 2D animations
   - 🧨 And Visual Effects too!
 
