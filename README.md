@@ -1,3 +1,5 @@
+![](./assets/espinosajuanma-terminal.gif?raw=true)
+
 # Hi! 👋
 
 My name is Juan Manuel, I am always learning and making things!
