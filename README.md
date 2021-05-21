@@ -2,7 +2,7 @@
 
 My name is Juan Manuel, I am always learning and making things!
 
-I am a FullStack Web Developer using `JavaScript` with `NodeJS` but I am
+I am a FullStack Web Developer using **JavaScript** with **NodeJS** but I am
 currently learning really cool stuff with linux containerization and
 compiled languages like **Go Lang** and **Java**.
 
