@@ -5,7 +5,7 @@
 My name is Juan Manuel, I am always learning and making things!
 
 I am a FullStack Web Developer using **JavaScript** with **NodeJS** but I am
-currently learning really cool stuff with linux containerization and
+currently learning really cool stuff about apps containerization and
 compiled languages like **Go Lang** and **Java**.
 
 ## About me
@@ -15,13 +15,14 @@ compiled languages like **Go Lang** and **Java**.
   - 💻 Using tools like `Adobe Premiere Pro` and `Adobe After Effects`
   - 🏃 Yes, I can do 2D animations
   - 🧨 And Visual Effects too!
-- 🚴 I like to ride my bike
+- 🚴 I like to ride my bike 
+- 🪐 Sci-fi and nerdy stuff is what I love
 
 My journey as developer started with an old computer and a friend
 showing me how he made a for loop from 1 to 10 with C. That seemed like
 magic for me! ✨👈
 
-My goals with coding is to solve problems and to have fun!
+Coding for me is to solve problems having fun.
 
 ## Learning
 
