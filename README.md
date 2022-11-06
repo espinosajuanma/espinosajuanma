@@ -2,41 +2,43 @@
 
 # Hi! 👋
 
-My name is Juan Manuel, I am always learning and making things!
+My name is Juan Manuel, I make my own tools to
 
-I am a FullStack Web Developer using **JavaScript** with **NodeJS** but I am
-currently learning really cool stuff about apps containerization and
-compiled languages like **Go Lang** and **Java**.
+I am a Backend Developer using **JavaScript** with **NodeJS** but I am
+also learning really cool stuff about apps containerization and
+compiled languages like **Go Lang**.
 
 ## About me
-
-- 🇦🇷 I live in Argentina
-- 🎬 I am also a video editor
-  - 💻 Using tools like `Adobe Premiere Pro` and `Adobe After Effects`
-  - 🏃 Yes, I can do 2D animations
-  - 🧨 And Visual Effects too!
-- 🚴 I like to ride my bike 
-- 🪐 Sci-fi and nerdy stuff is what I love
 
 My journey as developer started with an old computer and a friend
 showing me how he made a for loop from 1 to 10 with C. That seemed like
 magic for me! ✨👈
 
-Coding for me is to solve problems having fun.
+## Techs I am working with now
 
-## Learning
+- Amazon Web Services (AWS)
+- NodeJS / Javascript
+- Linux
+- Bash Scripting
 
-I am a self-taught person. A day without learning something it is a bad
-one.
+## Learning by my own
 
-Now I am learning:
-
-- Java
 - Go Lang
-- Docker / Linux / Shell Scripting
+- Docker
 
-## Fun Facts
+## Terminal enthusiast
 
-- My first programming language was `mIRC Scripting`
-- This file was wrote and edited with `Vim`
-- I like dinosaurs
+I love to use my terminal to improve my workflows
+
+- Vim user
+- tmux as terminal multiplexer
+- I make my own bash scripts and cli tools
+
+## I am a video editor too
+
+- 💻 Using tools like `Adobe Premiere Pro` and `Adobe After Effects`
+- 🏃 Yes, I can do 2D animations
+- 🧨 And Visual Effects too!
+- 🚴 I like to ride my bike 
+- 🪐 Sci-fi and nerdy stuff is what I love
+
