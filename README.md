@@ -2,7 +2,8 @@
 
 # Hi! 👋
 
-My name is Juan Manuel, I make my own tools to
+My name is Juan Manuel, I make my own tools to improve my workflow and
+be more productive.
 
 I am a Backend Developer using **JavaScript** with **NodeJS** but I am
 also learning really cool stuff about apps containerization and
