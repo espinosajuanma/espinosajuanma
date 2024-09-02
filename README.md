@@ -1,45 +1,28 @@
-![](./assets/espinosajuanma-terminal.gif?raw=true)
+![](./assets/espinosajuanma-logo-small.svg?raw=true)
 
-# Hi! 👋
+I am a backend developer with over a decade of autodidact experience.
+Passionate about building innovative solutions and infusing creativity into my
+work.
 
-My name is Juan Manuel, I make my own tools to improve my workflow and
-be more productive.
+When I'm not coding, you'll find me behind the camera, exploring the
+intersection of technology with art and storytelling.
 
-I am a Backend Developer using **JavaScript** with **NodeJS** but I am
-also learning really cool stuff about apps containerization and
-compiled languages like **Go Lang**.
+## Skills
 
-## About me
-
-My journey as developer started with an old computer and a friend
-showing me how he made a for loop from 1 to 10 with C. That seemed like
-magic for me! ✨👈
-
-## Techs I am working with now
-
-- Amazon Web Services (AWS)
-- NodeJS / Javascript
+- Backend Development
+- Cloud Infrastructure
 - Linux
-- Bash Scripting
+- Container 
 
-## Learning by my own
+## Interests
 
-- Go Lang
-- Docker
+- Filmmaking
+- Video Editing
+- Creative Writing
+- Road Bike Riding
 
-## Terminal enthusiast
+## Let's connect
 
-I love to use my terminal to improve my workflows
-
-- Vim user
-- tmux as terminal multiplexer
-- I make my own bash scripts and cli tools
-
-## I am a video editor too
-
-- 💻 Using tools like `Adobe Premiere Pro` and `Adobe After Effects`
-- 🏃 Yes, I can do 2D animations
-- 🧨 And Visual Effects too!
-- 🚴 I like to ride my bike 
-- 🪐 Sci-fi and nerdy stuff is what I love
-
+- 🟢 [juanma.ar](https://www.juanma.ar "juanma.ar")
+- 💼 [LinkedIn](https://www.linkedin.com/in/espinosajuanma "Juan Manuel Espinosa")
+- 📷 [Instagram](https://www.instagram.com/espinosajuanma "@espinosajuanma")
