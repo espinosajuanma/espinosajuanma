@@ -11,7 +11,7 @@ intersection of technology with art and storytelling.
 - Backend Development
 - Cloud Infrastructure
 - Linux
-- Container 
+- Containerization
 
 ## Interests
 
