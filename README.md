@@ -1,4 +1,4 @@
-![](./assets/espinosajuanma-logo-small.svg?raw=true)
+<img src="./assets/espinosajuanma-logo-small.svg" alt="Juanma Espinosa" style="width: 200px;">
 
 I am a backend developer with over a decade of autodidact experience.
 Passionate about building innovative solutions and infusing creativity into my
